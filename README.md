@@ -1,6 +1,7 @@
 # The clock that displays time with words.
-## Made by Dmitri Qiu.
-## Powered by Arduino.
+> Made by Dmitri Qiu.  
+> Powered by Arduino.  
+> Special thanks to [KNAGU](https://knastu.ru/)
 
 # So what is this project?
 Its a little thing that I started about a year ago, and I never got the time to actually work on it until a week ago. So in this week I made this clock and I'm happy with how it actually turned out.
