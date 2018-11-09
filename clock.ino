@@ -261,6 +261,7 @@ void loop()
                 if (hour > 12){
                     hour -= 12;
                 }
+                digitalWrite(from, LOW);
                 digitalWrite(minute, LOW);
                 digitalWrite(half, HIGH);
                 digitalWrite(almost, HIGH);
