@@ -286,7 +286,7 @@ void loop()
                 almostOrAbs(60 - time.minutes, 25);
                 digitalWrite(twenty, HIGH);
                 digitalWrite(five, HIGH);
-            }else if (60 - time.minutes >= 20){
+            }else if (60 - time.minutes >= 15){
                 almostOrAbs(60 - time.minutes, 20);
                 digitalWrite(twenty, HIGH);
             }else if (60 - time.minutes >= 10){
