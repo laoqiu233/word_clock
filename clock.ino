@@ -3,7 +3,7 @@
  * @ Author: Qiu Dmitri
  * @ Date started: 2018/11/6
  * @ Last Update: 2018/11/6
- * @ Version: 1.1
+ * @ Version: 1.2
  * 
  * TODO:
  *  [X] Minutes LEDS.
